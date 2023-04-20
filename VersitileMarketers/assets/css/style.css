@@ -21,6 +21,10 @@ html {
   scroll-behavior: smooth;
 }
 
+body .contact-info p {
+    font-size: 14px !important;
+}
+
 html, body, div, span, img,
 ol, ul, li, a, p, h1, h2, h3,
 h4, h5, h6, option, legend, label,
